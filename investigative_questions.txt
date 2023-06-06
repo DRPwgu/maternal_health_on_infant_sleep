@@ -1,0 +1,23 @@
+This dataset is a great resource for researchers and professionals looking to investigate the impact of maternal mental health difficulties on infant sleep. It includes 410 mothers of infants aged between 3 to 12 months old, providing invaluable insights into this important area.
+
+The data covers a variety of topics, including sociodemographic data (e.g., maternal age, marital status, and educational level) as well as maternal mental health data (such as CB-PTSD, depression and anxiety) and infant sleep patterns (e.g., duration and number of night awakenings).
+
+In order to make the most out of this dataset researchers can use various analytical tools such as descriptive statistics or regression models in order to study different aspects such as the association between sociodemographics or mental health difficulty with regards to infant sleep duration or quality. Additionally, potential mediators and moderators can be identified by studying specific subgroups within the sample in more depth or making comparisons with other datasets available online which measure similar variables.
+
+Using this dataset it will also be possible to gain further insight into key factors that might influence mothers' decisions when it comes to their children's sleeping habits (i.g., whether they should share the same bed with their baby)
+
+- Investigating the relationship between maternal mental health difficulties,
+    such as postpartum depression and anxiety, and infant sleep patterns.
+- Examining the role of mediators, such as sociodemographic characteristics (age, education level) in moderating
+    the relationship between maternal mental health difficulty and infant’s sleep patterns.
+- Investigating how various factors (e.g., maternal age, gender of the baby, etc.) affect infants’ sleeping habits
+    and quality of sleep throughout infancy up to one-year-old infancy stages by analyzing changes in certain variables
+    across all months included in this dataset
+
+
+Data authors
+This dataset is related to: Sandoz, V.; Lacroix, A.; Stuijfzand, S.; Bickle Graz, M.; Horsch, A.
+Maternal Mental Health Symptom Profiles and Infant Sleep: A Cross-Sectional Survey. Diagnostics 2022, 12, 1625.
+https://doi.org/10.3390/diagnostics12071625.
+
+https://zenodo.org/record/5070945#.Y8OqatJBwUE
